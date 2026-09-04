@@ -1,4 +1,4 @@
-#  Fuciones Básicas - Arch Linux
+# ![Arch Linux](assets/archlinux.png) Fuciones Básicas - Arch Linux
 
 Herramienta interactiva escrita en **Bash** para realizar diferentes comprobaciones y consultas básicas sobre un sistema **Arch Linux**.
 
