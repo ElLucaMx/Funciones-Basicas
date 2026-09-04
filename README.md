@@ -192,7 +192,3 @@ Se pueden añadir nuevas funciones y mejorar las existentes progresivamente.
 GitHub:
 
 https://github.com/ElLucaMx
-
-## Licencia
-
-Este proyecto todavía no especifica una licencia.
